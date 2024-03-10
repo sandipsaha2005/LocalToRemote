@@ -24,5 +24,15 @@ goal to is to push this folder in github
 7 > git push origin main
 
 
+# merging code 
 
+1 > git diff  < branch name > [ to check differece ]
+2 > git merge < anothre brance with whome to merge >
+
+or 
+you can merge in website 
+
+
+# after merge 
+1 > git pull origin main   [ to get the merged from of the code ]
 
