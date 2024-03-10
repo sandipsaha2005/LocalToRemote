@@ -9,3 +9,7 @@ goal to is to push this folder in github
 5 > git branch [to check the branch]
 6 > git branch -M main   // git push -u origin main [ this mean every push will happen using main branch ] 
 7 > git push origin main
+
+
+# merging code 
+
